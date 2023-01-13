@@ -1,6 +1,6 @@
 # mac3
 
-#EXTINF:-1, bestfhdtv.com:80
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  bestfhdtv.com:80
 http://mag.you24.online:80/6fqj33oen8/lr2gxln0rg/697885
 #EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/espnextra.png" group-title="LAT| ARGENTINA",ARG| ESPN EXTRA
 http://bestfhdtv.com:80/play/live.php?mac=00:1A:79:E5:57:04&stream=926536&extension=ts
