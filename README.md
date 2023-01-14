@@ -2538,3 +2538,688 @@ http://ss123.pro/play/live.php?mac=00:1A:79:E5:57:04&stream=553052&extension=ts
 http://ss123.pro/play/live.php?mac=00:1A:79:E5:57:04&stream=552941&extension=ts
 #EXTINF:-1,MXC| WOBI HD
 http://ss123.pro/play/live.php?mac=00:1A:79:E5:57:04&stream=553053&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  pizicetb.elprivateron.uno
+http://ss123.pro/play/live.php?mac=00:1A:79:E5:57:04&stream=553053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3b46901b9409438023136d84a6797373.png" group-title="? Argentina ?",ARG: A&E
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417099
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1b1a1e85ea09acd758763a34b0316689.png" group-title="? Argentina ?",ARG: A24
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417098
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7869eca9586b44e92468ac2235338af9.png" group-title="? Argentina ?",ARG: AMC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417097
+#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b75ee58326fe152aa93a4bddf26c78e5.png" group-title="? Argentina ?",ARG: America TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417096
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Argentinisima" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b049025405f7c8647448045b7406a9c7.png" group-title="? Argentina ?",ARG: Argentinisima
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417095
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Atreseries" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/85d9a733c0d3175c8b30ceb78c184b94.png" group-title="? Argentina ?",ARG: Atreseries
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417094
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cfe9b91c3d1459beb3eca90f11a11d3.png" group-title="? Argentina ?",ARG: AXN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417093
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9468823db4171eccb76dbc2d079a34f7.png" group-title="? Argentina ?",ARG: Baby TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417092
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Bloomberg" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/991709e1a4f3008ac4bbe507ace497d3.png" group-title="? Argentina ?",ARG: Bloomberg
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417091
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/72d79a9f0a7874c30f5c357bfcdfa7a1.png" group-title="? Argentina ?",ARG: Boomerang
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417090
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b7326b8795e4f9e84e08a6d890cc598f.png" group-title="? Argentina ?",ARG: C5N
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417089
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 2 Jujuy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Canal 2 Jujuy
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417088
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 3 Pinamar" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d546c989919463f04b726a769efa81cd.png" group-title="? Argentina ?",ARG: Canal 3 Pinamar
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417087
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 4 Jujuy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Canal 4 Jujuy
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417086
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 6 Noticias" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Canal 6 Noticias
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417085
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 9 Televida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/05c4525ccd8aa0c3902569f32193fe15.png" group-title="? Argentina ?",ARG: Canal 9 Televida
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417084
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 10 Córdoba" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Canal 10 Córdoba
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417083
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 10 Mar del Plata" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/05e9247dc01c62c984dbfc3cd40fa64d.png" group-title="? Argentina ?",ARG: Canal 10 Mar del Plata
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417082
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 10 Rio Negro" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dc6eb4197a7109cd65cb35939a19ac68.png" group-title="? Argentina ?",ARG: Canal 10 Rio Negro
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417081
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 11 La Rioja" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Canal 11 La Rioja
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417080
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 12 Puerto Madryn" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/55af06f2c240537cae0a2807cebc0a44.png" group-title="? Argentina ?",ARG: Canal 12 Puerto Madryn
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417079
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 13 La Rioja" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Canal 13 La Rioja
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417078
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 26" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b054195fa6a26e0e0f146374f2fbe5fc.png" group-title="? Argentina ?",ARG: Canal 26
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417077
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal de la Ciudad" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bbf93646059c526e6d643ca7c9109845.png" group-title="? Argentina ?",ARG: Canal de la Ciudad
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417076
+#EXTINF:-1 tvg-id="" tvg-name="ARG: canal orbe 21" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/58eb9090c2c64aeb8c79bd3bc49ebab1.png" group-title="? Argentina ?",ARG: canal orbe 21
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417075
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal Provincial" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/08340607a0b344874cb92a2dc3a242e8.jpeg" group-title="? Argentina ?",ARG: Canal Provincial
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417074
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal TDC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ee18e7e604f6e4b610f43f141472b9f8.png" group-title="? Argentina ?",ARG: Canal TDC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417073
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7560825575b372768491404eb5a5b677.png" group-title="? Argentina ?",ARG: Cartoon Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417072
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Chaco TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c59f4fd00eaddf3861321dd65b63720f.png" group-title="? Argentina ?",ARG: Chaco TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417071
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Chacra TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/5997c99039827dd5ed5d64591386f1e9.jpg" group-title="? Argentina ?",ARG: Chacra TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417070
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinco TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1043c8559b393a32307c4c31e8a52763.png" group-title="? Argentina ?",ARG: Cinco TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417069
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cine.ar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9031fa76e842682d6b61c223a3202398.png" group-title="? Argentina ?",ARG: Cine.ar
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417068
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinecanal" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d3f69eaf959038a3e7107518e6c5a6e6.png" group-title="? Argentina ?",ARG: Cinecanal
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417067
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4094c04397c5d1ead102ff5913c3a950.png" group-title="? Argentina ?",ARG: Cinemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417066
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Ciudad Magazine" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/155330a2242c544c7bb1967c695f9f8d.png" group-title="? Argentina ?",ARG: Ciudad Magazine
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417065
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Ciudad TV Chaco" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/18343c0fb661dfdb0276d32324b92f4a.jpeg" group-title="? Argentina ?",ARG: Ciudad TV Chaco
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417064
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/727d1df5cf145f20b05ce03c8f71429c.png" group-title="? Argentina ?",ARG: Comedy Central
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417063
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12d03d3b0c1ee223bbef7afff54f99bd.png" group-title="? Argentina ?",ARG: Cronica TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417062
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DeporTV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8e422c39a1c5c4f39a33b1602be978fd.png" group-title="? Argentina ?",ARG: DeporTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417061
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Diputados TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a5f6d702a8fd016c0407dd47136b79e5.png" group-title="? Argentina ?",ARG: Diputados TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417060
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png" group-title="? Argentina ?",ARG: DirecTV Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417059
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="? Argentina ?",ARG: DirecTV Sports 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417058
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="? Argentina ?",ARG: DirecTV Sports+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417057
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery H&H" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/75d9d9ee40dbce1919a1cdf9f5f98a32.png" group-title="? Argentina ?",ARG: Discovery H&H
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417056
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery Theater" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1d2a567812c05aa587d88f49ead9e213.png" group-title="? Argentina ?",ARG: Discovery Theater
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417055
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3bb6ecc1567af22c930a6043f83abdf0.png" group-title="? Argentina ?",ARG: Disney Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417054
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d8ed293e6e5c3e34b781e0c94719a39f.png" group-title="? Argentina ?",ARG: Disney Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417053
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7754c8086fc28e5281feaa1ad81c70ae.png" group-title="? Argentina ?",ARG: Disney XD
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417052
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4f5609c739b657207cda995bfdb21b77.png" group-title="? Argentina ?",ARG: E!
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417051
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0691c65eba09e3a371dd85faf04a6d.png" group-title="? Argentina ?",ARG: El Gourmet
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417050
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d45e05543beedc3ea5bf9f26012ef4dc.png" group-title="? Argentina ?",ARG: El Nueve
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417049
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Trece" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/70250fba7869925f4921f37dcb3e3d90.png" group-title="? Argentina ?",ARG: El Trece
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417048
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Eltres" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0140163f0b0f2541ca1b70b9dfd7bac9.jpg" group-title="? Argentina ?",ARG: Eltres
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417047
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Encuentro" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1ed1a25547e7f6b4224c7189f1e79984.png" group-title="? Argentina ?",ARG: Encuentro
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417046
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="? Argentina ?",ARG: ESPN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417045
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="? Argentina ?",ARG: ESPN 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417044
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="? Argentina ?",ARG: ESPN 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417043
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="? Argentina ?",ARG: ESPN 4
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417042
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="? Argentina ?",ARG: ESPN Extra
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417041
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Fenix TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Fenix TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417040
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Film & Arts" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23b7e450ea406743ae73a1b3545ff3b2.png" group-title="? Argentina ?",ARG: Film & Arts
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417039
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png" group-title="? Argentina ?",ARG: FOX SPORTS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417038
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png" group-title="? Argentina ?",ARG: FOX SPORTS 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417037
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png" group-title="? Argentina ?",ARG: FOX SPORTS 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417036
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cf183ad8689ff703062b1b2856b72c6.png" group-title="? Argentina ?",ARG: FX
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417035
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FXM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b034ade7d1cec1d63cdb0ceec4673991.png" group-title="? Argentina ?",ARG: FXM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417034
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Garage TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7571477b2d1658e99c8b0646b505baec.png" group-title="? Argentina ?",ARG: Garage TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417033
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Gen Reprise" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Gen Reprise
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417032
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Glitz" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1355a7f4596f05951f14ce3cbb52fe1f.png" group-title="? Argentina ?",ARG: Glitz
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417031
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1e20aa6fe1f1e7469316223a7226fce0.png" group-title="? Argentina ?",ARG: HBO Mundi
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417030
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Pop" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bff69410e86e35041f8a86d296d5cbb9.png" group-title="? Argentina ?",ARG: HBO Pop
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417029
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Xtreme" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7241391c5fd30f0e9f8414bf2b670b49.png" group-title="? Argentina ?",ARG: HBO Xtreme
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417028
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1ebbff6713a385ee77b25166f506f15b.png" group-title="? Argentina ?",ARG: HBO+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417027
+#EXTINF:-1 tvg-id="" tvg-name="ARG: History" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/dcf138395d33c7add72e713d90eeb08d.png" group-title="? Argentina ?",ARG: History
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417026
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Hola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9a3eaf863f6643120072b58ea61cf2e4.png" group-title="? Argentina ?",ARG: Hola TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417025
+#EXTINF:-1 tvg-id="" tvg-name="ARG: I Sat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b1cb3b55d5c8d9b56725b77979b2563e.png" group-title="? Argentina ?",ARG: I Sat
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417024
+#EXTINF:-1 tvg-id="" tvg-name="ARG: La Voz de Tucuman" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: La Voz de Tucuman
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417023
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Litus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Litus
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417022
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ad3ae8ea2a57ba8e4010a3cf5026e38c.png" group-title="? Argentina ?",ARG: LN+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417021
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Morbido TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" group-title="? Argentina ?",ARG: Morbido TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417020
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Multivision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1584c0b50af7e4f2df2ea768538f3713.png" group-title="? Argentina ?",ARG: Multivision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417019
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f7703cdc820fdff72dcc60f1a560ef84.png" group-title="? Argentina ?",ARG: NAT GEO Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417018
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png" group-title="? Argentina ?",ARG: NAT GEO Wild
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417017
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Net TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d1d959c3ae6d2d374c200451b12c3af5.png" group-title="? Argentina ?",ARG: Net TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417016
+#EXTINF:-1 tvg-id="" tvg-name="ARG: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b1eff9b3fa0ab61c323b719676ea3ae8.png" group-title="? Argentina ?",ARG: nickelodeon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417015
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Pakapaka" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/c1c7b94176832edee909922ce2f0e1ba.png" group-title="? Argentina ?",ARG: Pakapaka
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417014
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Quiero Musica en mi Idioma" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ff28f1cb799d59ce60f78e37921f76ea.png" group-title="? Argentina ?",ARG: Quiero Musica en mi Idioma
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417013
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/04b9419e1f3145723139efc0a76e2e4d.png" group-title="? Argentina ?",ARG: Smithsonian Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417012
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Star Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8e01ec881f275facb792f2049e0bdbd9.png" group-title="? Argentina ?",ARG: Star Action
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417011
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Star Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e4cc00a1f7ec6c6a35eb63c2786cb042.png" group-title="? Argentina ?",ARG: Star Comedy
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417010
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Star Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/709e2e73423313b73fc432087ca01e91.png" group-title="? Argentina ?",ARG: Star Hits
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417009
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e6401d2f80b1258f21dc0aa489f13b98.png" group-title="? Argentina ?",ARG: SYFY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417008
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/10f6c9721083bb8bec43d163bc5d791a.png" group-title="? Argentina ?",ARG: TCM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417007
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eb9362ea0d5367005473c800f29a566d.png" group-title="? Argentina ?",ARG: Telefe
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417006
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe Rosario" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Telefe Rosario
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417005
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TeleJunin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: TeleJunin
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417004
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telemax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e8961cb60584df08aeb4bcc7f3a3aae1.png" group-title="? Argentina ?",ARG: Telemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417003
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telenord Corrientes" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Telenord Corrientes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417002
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telesol (TLS)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: Telesol (TLS)
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417001
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/8305d438ffd9b78f11cc6040c418cf8e.svg" group-title="? Argentina ?",ARG: Television Publica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417000
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tierramia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a30fde66eab2df9f1dfcd16760b3c047.png" group-title="? Argentina ?",ARG: Tierramia TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416999
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/49181ded70802b624b64bf409cd4b76c.png" group-title="? Argentina ?",ARG: TNT
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416998
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/341e2bd93b5fa0d6897a9f0f538f2c1d.png" group-title="? Argentina ?",ARG: TNT Series
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416997
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png" group-title="? Argentina ?",ARG: TNT Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416996
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7b8105d8ff6faab8fe9ba38744cfc995.png" group-title="? Argentina ?",ARG: Todo Noticias
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416995
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Mana Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: TV Mana Argentina
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416994
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Publica" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2b418149074fe7404e47676d256c4f49.png" group-title="? Argentina ?",ARG: TV Publica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416993
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TVU Universidad Nacional de La Plata" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="? Argentina ?",ARG: TVU Universidad Nacional de La Plata
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416992
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TyC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="? Argentina ?",ARG: TyC Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416991
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Universal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/84759c64da660ef9ac51ec981b19c1b9.png" group-title="? Argentina ?",ARG: Universal TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416990
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Volver" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/45b0147ecb60e68db94b6ccceb75ff9f.png" group-title="? Argentina ?",ARG: Volver
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416989
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Wobi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b8eef6b69f182631a604fa030270a09e.png" group-title="? Argentina ?",ARG: Wobi TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416988
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ZooMoo Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/48def784ff7fd2ed804825fd770be215.png" group-title="? Argentina ?",ARG: ZooMoo Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416987
+#EXTINF:-1 tvg-id="" tvg-name="MX: ADN 40" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8916a14d4e2a1c7a5f093901bf95d258.png" group-title="? Messico MX ?",MX: ADN 40
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416757
+#EXTINF:-1 tvg-id="" tvg-name="MX: Adrenalina Sports Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4f748645727fa437970fe429a24bda07.png" group-title="? Messico MX ?",MX: Adrenalina Sports Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416756
+#EXTINF:-1 tvg-id="" tvg-name="MX: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png" group-title="? Messico MX ?",MX: AMC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416755
+#EXTINF:-1 tvg-id="" tvg-name="MX: Antena 3 Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a963b3d472ac871390c313a1e1c34871.png" group-title="? Messico MX ?",MX: Antena 3 Internacional
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416754
+#EXTINF:-1 tvg-id="" tvg-name="MX: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png" group-title="? Messico MX ?",MX: AXN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416753
+#EXTINF:-1 tvg-id="" tvg-name="MX: AyM Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9d78d62bec125d99fbd830f62262447f.png" group-title="? Messico MX ?",MX: AyM Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416752
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png" group-title="? Messico MX ?",MX: Az Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416751
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Clic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3b72f6a605d555147d432cb35ebbf80a.png" group-title="? Messico MX ?",MX: Az Clic
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416750
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Corazon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d0d9608fb753badbadd6a8dbc1496e8.png" group-title="? Messico MX ?",MX: Az Corazon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416749
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Mundo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aedf232d53962c482c765dcf6ab1d95.png" group-title="? Messico MX ?",MX: Az Mundo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416748
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/72ffa19b20708ee5d84c6f01c202ba9a.png" group-title="? Messico MX ?",MX: AZTECA 7
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416747
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA Uno" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/40ffc9b6f229e4f18593b68daeb65d87.png" group-title="? Messico MX ?",MX: AZTECA Uno
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416746
+#EXTINF:-1 tvg-id="" tvg-name="MX: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/f8d40f74278e6f8f95816ac240a9a504.png" group-title="? Messico MX ?",MX: Baby TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416745
+#EXTINF:-1 tvg-id="" tvg-name="MX: Bandamax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b1638d003ea8a742796ed86a2c29c77.png" group-title="? Messico MX ?",MX: Bandamax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416744
+#EXTINF:-1 tvg-id="" tvg-name="MX: BitMe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d09e68cd4fec58ea4c23bc22e4047b26.png" group-title="? Messico MX ?",MX: BitMe
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416743
+#EXTINF:-1 tvg-id="" tvg-name="MX: Bloomberg TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c4b6f75ada13bb2f7f6d7003acdd019.png" group-title="? Messico MX ?",MX: Bloomberg TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416742
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7cd1ffc3c61749c8415cbb128068c8a5.jpg" group-title="? Messico MX ?",MX: Canal 4
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416741
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/77a6c741aaea77417a1d6cbc5fcd18c2.png" group-title="? Messico MX ?",MX: Canal 5
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416740
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 6 Monterrey" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6e52287c9a1a4338e630b38de0320322.png" group-title="? Messico MX ?",MX: Canal 6 Monterrey
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416739
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 6 Saltillo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d03e153671d7e94d75f2256a3eae491.png" group-title="? Messico MX ?",MX: Canal 6 Saltillo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416738
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a5ca82cd6d404f8d2dd52177fee09745.png" group-title="? Messico MX ?",MX: Canal 8 Costa Rica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416737
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 10 Cancun" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acaaac076bc2325488fbdbe92a2b7b9a.png" group-title="? Messico MX ?",MX: Canal 10 Cancun
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416736
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 26" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/51f6f3715ac39c8be632fc605f80acc2.png" group-title="? Messico MX ?",MX: Canal 26
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416735
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3ee08d730b060292340953a8d2a61516.png" group-title="? Messico MX ?",MX: Canal Internacional
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416734
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Mundo+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/18229eb1c949b0ef7e9709846c413b72.png" group-title="? Messico MX ?",MX: Canal Mundo+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416733
+#EXTINF:-1 tvg-id="" tvg-name="MX: Capital 21" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6ed38ab728c2dde98bbf5cfd70d923b5.png" group-title="? Messico MX ?",MX: Capital 21
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416732
+#EXTINF:-1 tvg-id="" tvg-name="MX: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f51c3bc985994d3ea01824291571f2f.png" group-title="? Messico MX ?",MX: Cartoon Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416731
+#EXTINF:-1 tvg-id="" tvg-name="MX: Cinecanal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png" group-title="? Messico MX ?",MX: Cinecanal
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416730
+#EXTINF:-1 tvg-id="" tvg-name="MX: Claro Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1dfd6f5ef14ff570838c7117824342c.png" group-title="? Messico MX ?",MX: Claro Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416729
+#EXTINF:-1 tvg-id="" tvg-name="MX: Claro Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/160fa147d986ff95034f7199b1510080.png" group-title="? Messico MX ?",MX: Claro Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416728
+#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f09982c9fc7f833cb4f14c6f1e0e8f4.png" group-title="? Messico MX ?",MX: Comedy Central
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416727
+#EXTINF:-1 tvg-id="" tvg-name="MX: Corazon del la Capital" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2ee376d302ecd30ed4f248cedaf7924b.png" group-title="? Messico MX ?",MX: Corazon del la Capital
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416726
+#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0c7cbb69876963d368d6d8249aef2409.png" group-title="? Messico MX ?",MX: De Pelicula
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416725
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery H&H" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png" group-title="? Messico MX ?",MX: Discovery H&H
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416724
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14efc3962a7c656763a5cd0185333238.png" group-title="? Messico MX ?",MX: Discovery Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416723
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5f470d3d6be213306838028887def939.png" group-title="? Messico MX ?",MX: Discovery Science
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416722
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Theater" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d2ab682780c26660017668636579c6f.png" group-title="? Messico MX ?",MX: Discovery Theater
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416721
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="? Messico MX ?",MX: Discovery TLC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416720
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Turbo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/37847bf1f1780679d6b96f9fac8a4d17.png" group-title="? Messico MX ?",MX: Discovery Turbo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416719
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b9aa3947397c52a219b1e6ef24a653ef.png" group-title="? Messico MX ?",MX: Discovery World
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416718
+#EXTINF:-1 tvg-id="" tvg-name="MX: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png" group-title="? Messico MX ?",MX: Disney Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416717
+#EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9571a3fe48be02335097c60e890617a4.png" group-title="? Messico MX ?",MX: Distrito Comedia
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416716
+#EXTINF:-1 tvg-id="" tvg-name="MX: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/b36abca5f5ebaae7f44a8eaeca72c0ee.png" group-title="? Messico MX ?",MX: E!
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416715
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="? Messico MX ?",MX: ESPN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416714
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="? Messico MX ?",MX: ESPN 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416713
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Dos" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="? Messico MX ?",MX: ESPN Dos
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416712
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="? Messico MX ?",MX: ESPN Extra
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416711
+#EXTINF:-1 tvg-id="" tvg-name="MX: Europa Europa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png" group-title="? Messico MX ?",MX: Europa Europa
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416710
+#EXTINF:-1 tvg-id="" tvg-name="MX: Excelsior TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/625ac7e311c8efe4435fe4aba986278a.png" group-title="? Messico MX ?",MX: Excelsior TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416709
+#EXTINF:-1 tvg-id="" tvg-name="MX: Film & Arts" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e0c9135ce1ddc8e44f908cab23545722.png" group-title="? Messico MX ?",MX: Film & Arts
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416708
+#EXTINF:-1 tvg-id="" tvg-name="MX: Foro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e9418c38f57580606fda9fa0028a3531.png" group-title="? Messico MX ?",MX: Foro TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416707
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg" group-title="? Messico MX ?",MX: FOX SPORTS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416706
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" group-title="? Messico MX ?",MX: FOX SPORTS 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416705
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" group-title="? Messico MX ?",MX: FOX SPORTS 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416704
+#EXTINF:-1 tvg-id="" tvg-name="MX: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/de3051d403186b770791395b44c9bd74.png" group-title="? Messico MX ?",MX: FX
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416703
+#EXTINF:-1 tvg-id="" tvg-name="MX: Glitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ae7fc579a89a3e135c34e8d968fdf59.png" group-title="? Messico MX ?",MX: Glitz
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416702
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Edge" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png" group-title="? Messico MX ?",MX: Golden Edge
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416701
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a08cc6163e53b2569acec7eb03e05271.png" group-title="? Messico MX ?",MX: Golden Plus
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416700
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Premier" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png" group-title="? Messico MX ?",MX: Golden Premier
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416699
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golf Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0f3ec53e3a88942f81f84686e3f90ef8.png" group-title="? Messico MX ?",MX: Golf Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416698
+#EXTINF:-1 tvg-id="" tvg-name="MX: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7510a9b10984936053e620479b391ff5.png" group-title="? Messico MX ?",MX: HGTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416697
+#EXTINF:-1 tvg-id="" tvg-name="MX: Hola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8044fffe110f6d73bd82305a5f8f5ff1.png" group-title="? Messico MX ?",MX: Hola TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416696
+#EXTINF:-1 tvg-id="" tvg-name="MX: I Sat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7341c1c672a0aad7fea945234ac22533.png" group-title="? Messico MX ?",MX: I Sat
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416695
+#EXTINF:-1 tvg-id="" tvg-name="MX: ILCE Canal 15 Summa Saberes" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/8dcceeaeeadfa30845f4ad276674c3bf.png" group-title="? Messico MX ?",MX: ILCE Canal 15 Summa Saberes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416694
+#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9ee680172973be02359002c5b3a44ec3.png" group-title="? Messico MX ?",MX: Imagen TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416693
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ingenio TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0b87363d98d74005e7a5cc8bd8b897e4.png" group-title="? Messico MX ?",MX: Ingenio TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416692
+#EXTINF:-1 tvg-id="" tvg-name="MX: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d572680055d9dd1912fd85f3a92d6ae.png" group-title="? Messico MX ?",MX: Investigation Discovery
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416691
+#EXTINF:-1 tvg-id="" tvg-name="MX: Jalisco TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/43af95dbb50e3d398d3d1ec5a8283937.png" group-title="? Messico MX ?",MX: Jalisco TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416690
+#EXTINF:-1 tvg-id="" tvg-name="MX: Justicia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/70b8ace2be2bcc1f79aeca12fcfb76d7.png" group-title="? Messico MX ?",MX: Justicia TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416689
+#EXTINF:-1 tvg-id="" tvg-name="MX: Las Estrellas México" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png" group-title="? Messico MX ?",MX: Las Estrellas México
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416688
+#EXTINF:-1 tvg-id="" tvg-name="MX: Maria+Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef1c95874a83ad90fc037dafbaea536f.png" group-title="? Messico MX ?",MX: Maria+Vision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416687
+#EXTINF:-1 tvg-id="" tvg-name="MX: Maria+Vision Medjugorje" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0b7c0a00810d9afb22e2f62b187dd77e.png" group-title="? Messico MX ?",MX: Maria+Vision Medjugorje
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416686
+#EXTINF:-1 tvg-id="" tvg-name="MX: Mexico Travel Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfd347d763feaa02df28b5ce26b819d.png" group-title="? Messico MX ?",MX: Mexico Travel Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416685
+#EXTINF:-1 tvg-id="" tvg-name="MX: Milenio TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a873a99ddc126b9074d6c7757d9b6fe.png" group-title="? Messico MX ?",MX: Milenio TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416684
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Laguna" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/fd9b3f82ec5b4410afe898ffe157f867.jpg" group-title="? Messico MX ?",MX: Multimedios Laguna
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416683
+#EXTINF:-1 tvg-id="" tvg-name="MX: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png" group-title="? Messico MX ?",MX: NAT GEO
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416682
+#EXTINF:-1 tvg-id="" tvg-name="MX: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" group-title="? Messico MX ?",MX: nickelodeon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416681
+#EXTINF:-1 tvg-id="" tvg-name="MX: NickMusic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0b6049bc99ad5e7ad70ccff63b81e79.png" group-title="? Messico MX ?",MX: NickMusic
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416680
+#EXTINF:-1 tvg-id="" tvg-name="MX: Nmas" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f473e822852163f299e1b80147732d0c.jpeg" group-title="? Messico MX ?",MX: Nmas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416679
+#EXTINF:-1 tvg-id="" tvg-name="MX: Nueve" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8b5f372f4983c376dc954818cf6889fe.png" group-title="? Messico MX ?",MX: Nueve
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416678
+#EXTINF:-1 tvg-id="" tvg-name="MX: Once Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/eeaaa6758c4241bf0bb03fe401e17cb2.png" group-title="? Messico MX ?",MX: Once Mexico
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416677
+#EXTINF:-1 tvg-id="" tvg-name="MX: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8fd6d2dff8d7a18160e0b6823dec6e54.jpg" group-title="? Messico MX ?",MX: Paramount Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416676
+#EXTINF:-1 tvg-id="" tvg-name="MX: RCG TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/500027ad173d08a327be172e7f5e7c2a.png" group-title="? Messico MX ?",MX: RCG TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416675
+#EXTINF:-1 tvg-id="" tvg-name="MX: RTQ Queretaro" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/86353ce637c9cbcd4e08478da108db80.jpg" group-title="? Messico MX ?",MX: RTQ Queretaro
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416674
+#EXTINF:-1 tvg-id="" tvg-name="MX: SET Television Canal 26" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d2def6c11e52df87d4cd8798e81a4477.jpg" group-title="? Messico MX ?",MX: SET Television Canal 26
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416673
+#EXTINF:-1 tvg-id="" tvg-name="MX: Sistema Michoacano de TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/adf9d65fa840d424ba8213cb38f90bb6.png" group-title="? Messico MX ?",MX: Sistema Michoacano de TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416672
+#EXTINF:-1 tvg-id="" tvg-name="MX: Sony Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/681d83765d2daf11d1138045141f9d5a.png" group-title="? Messico MX ?",MX: Sony Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416671
+#EXTINF:-1 tvg-id="" tvg-name="MX: Space" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/549b218ccc0286cc02c95fb60ec9b9c6.jpg" group-title="? Messico MX ?",MX: Space
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416670
+#EXTINF:-1 tvg-id="" tvg-name="MX: SYFY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fcefd652cedee1c107acd5ff08569ebc.png" group-title="? Messico MX ?",MX: SYFY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416669
+#EXTINF:-1 tvg-id="" tvg-name="MX: TBS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e165b01f05e7125d5db3eb5f067d8d9c.png" group-title="? Messico MX ?",MX: TBS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416668
+#EXTINF:-1 tvg-id="" tvg-name="MX: TCM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1b950d84f4cca742c18c7b61128e44d7.png" group-title="? Messico MX ?",MX: TCM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416667
+#EXTINF:-1 tvg-id="" tvg-name="MX: TeenNick" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1fa4662bdb978937bc2613f72051a35f.png" group-title="? Messico MX ?",MX: TeenNick
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416666
+#EXTINF:-1 tvg-id="" tvg-name="MX: TeleFormula" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="? Messico MX ?",MX: TeleFormula
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416665
+#EXTINF:-1 tvg-id="" tvg-name="MX: Telehit Musica" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" group-title="? Messico MX ?",MX: Telehit Musica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416664
+#EXTINF:-1 tvg-id="" tvg-name="MX: Telemax" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/43d3a5159d8a3fd3efc3a151adf8475e.png" group-title="? Messico MX ?",MX: Telemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416663
+#EXTINF:-1 tvg-id="" tvg-name="MX: Teleritmo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/655850066c36955259a174c81dcf7f14.png" group-title="? Messico MX ?",MX: Teleritmo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416662
+#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Networks" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fbe55ec25fc899d2e3627510717816f7.png" group-title="? Messico MX ?",MX: Televisa Networks
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416661
+#EXTINF:-1 tvg-id="" tvg-name="MX: Tlaxcala TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/02cdc8384a01fbc4e92ccca5f579e54a.png" group-title="? Messico MX ?",MX: Tlaxcala TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416660
+#EXTINF:-1 tvg-id="" tvg-name="MX: Tlnovelas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5aab5cf9b5929219698bc9486baa80c.png" group-title="? Messico MX ?",MX: Tlnovelas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416659
+#EXTINF:-1 tvg-id="" tvg-name="MX: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/2d31036601046a0b55481cce7da5f81d.png" group-title="? Messico MX ?",MX: TNT Series
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416658
+#EXTINF:-1 tvg-id="" tvg-name="MX: Tooncast" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/86089cab009b32659541202d94cca052.png" group-title="? Messico MX ?",MX: Tooncast
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416657
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b861cb6a74cbb1ff2b70855e9f56a24.png" group-title="? Messico MX ?",MX: TUDN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416656
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3a6fba7a1a0c19dd68d52d09c4d81c32.png" group-title="? Messico MX ?",MX: TV Mas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416655
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mexiquense" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4ae84b977b110d16af3ad499dcd835d3.png" group-title="? Messico MX ?",MX: TV Mexiquense
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416654
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Nuevo Leon 28" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e22749492b204c5592668eedf44f6966.png" group-title="? Messico MX ?",MX: TV Nuevo Leon 28
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416653
+#EXTINF:-1 tvg-id="" tvg-name="MX: TVC Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c96a64148f8d48eafdc5ab59f824a20e.png" group-title="? Messico MX ?",MX: TVC Deportes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416652
+#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c936060ef7611689676c2134171fb61.png" group-title="? Messico MX ?",MX: Unicable
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416651
+#EXTINF:-1 tvg-id="" tvg-name="MX: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a82db4330339db82492965b7c1988734.png" group-title="? Messico MX ?",MX: Warner TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416650
+#EXTINF:-1 tvg-id="" tvg-name="LA: 3ABN Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/a59c5c16488bbdceabff9b53d686c471.png" group-title="? Latino ?",LA: 3ABN Latino
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416649
+#EXTINF:-1 tvg-id="" tvg-name="LA: A Estrenar" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8b945f8ab108e972cca1615cd8b61329.jpg" group-title="? Latino ?",LA: A Estrenar
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416648
+#EXTINF:-1 tvg-id="" tvg-name="LA: A&E" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35930f7c0284e5ec49d271911405a5da.png" group-title="? Latino ?",LA: A&E
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416647
+#EXTINF:-1 tvg-id="" tvg-name="LA: Albuquerque Santa Fe New Mexico KRQE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6866aa7c40157520b62a3ea75f7e9242.png" group-title="? Latino ?",LA: Albuquerque Santa Fe New Mexico KRQE
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416646
+#EXTINF:-1 tvg-id="" tvg-name="LA: Aliento Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e53b4bfbbf4bdd6006869adb670f03ad.jpg" group-title="? Latino ?",LA: Aliento Vision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416645
+#EXTINF:-1 tvg-id="" tvg-name="LA: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad58529eb9a545d2b1fd0893d7eaf417.png" group-title="? Latino ?",LA: AMC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416644
+#EXTINF:-1 tvg-id="" tvg-name="LA: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb90e5e84997d9ec15153c5670024ac5.png" group-title="? Latino ?",LA: ANIMAL PLANET
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416643
+#EXTINF:-1 tvg-id="" tvg-name="LA: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d70c71401b7d4da7d10e56ce4cdb85dd.png" group-title="? Latino ?",LA: AXN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416642
+#EXTINF:-1 tvg-id="" tvg-name="LA: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1178c8812d991c7d5c2e6b7da4cd949.png" group-title="? Latino ?",LA: Baby TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416641
+#EXTINF:-1 tvg-id="" tvg-name="LA: Bloomberg TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7094f593037f91cf19b48829152f7412.png" group-title="? Latino ?",LA: Bloomberg TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416640
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="? Latino ?",LA: Cartoon Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416639
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema Dinamita" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0da408e1ce31beda60e5ae859b8f8ac5.jpg" group-title="? Latino ?",LA: Cinema Dinamita
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416638
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/46853ba04466458e995a775b65b5a1b1.png" group-title="? Latino ?",LA: Cinemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416637
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cinemax Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/08ba2b079383d5cceb0234f4820879b2.png" group-title="? Latino ?",LA: Cinemax Action
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416636
+#EXTINF:-1 tvg-id="" tvg-name="LA: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3bfb9a1b6690135b0a81639e7d1bbdc7.png" group-title="? Latino ?",LA: Comedy Central
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416635
+#EXTINF:-1 tvg-id="" tvg-name="LA: Concert Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png" group-title="? Latino ?",LA: Concert Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416634
+#EXTINF:-1 tvg-id="" tvg-name="LA: Contacts TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/91f40211e35ccd84407b02e43618e4d6.jpg" group-title="? Latino ?",LA: Contacts TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416633
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cuaraco TV Direct 13" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ba7bdda69026276037b6f5153f3698c4.jpg" group-title="? Latino ?",LA: Cuaraco TV Direct 13
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416632
+#EXTINF:-1 tvg-id="" tvg-name="LA: Dios te ve Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5ecce83680ee38c90a49676d535d0c4d.png" group-title="? Latino ?",LA: Dios te ve Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416631
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery H&H" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b90c9be7c62f1c98d310fd21ad627936.png" group-title="? Latino ?",LA: Discovery H&H
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416630
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5d8a6d0bd0c1237d56625cb92cdde342.png" group-title="? Latino ?",LA: Discovery Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416629
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cac3f9679cec1213b995216d207a4c44.png" group-title="? Latino ?",LA: Discovery Science
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416628
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Theater" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4cf41989812d63a1b5bc1e488ad447e.png" group-title="? Latino ?",LA: Discovery Theater
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416627
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Turbo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb8e49ac28ac142eb2f1585fdb3f701e.png" group-title="? Latino ?",LA: Discovery Turbo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416626
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="? Latino ?",LA: Discovery World
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416625
+#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eeb06c226acc25e1495ef0f80d0533f4.png" group-title="? Latino ?",LA: Disney Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416624
+#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf8964d602d9e1b26bab23889ee6677a.png" group-title="? Latino ?",LA: Disney Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416623
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="? Latino ?",LA: ESPN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416622
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png" group-title="? Latino ?",LA: ESPN 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416621
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b6f8f113c4460c0a97f69b9d379b95e4.png" group-title="? Latino ?",LA: ESPN 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416620
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png" group-title="? Latino ?",LA: ESPN Deportes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416619
+#EXTINF:-1 tvg-id="" tvg-name="LA: Estrella TV East" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/270f9ff3c9fc5bf2f744cce629f678c4.png" group-title="? Latino ?",LA: Estrella TV East
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416618
+#EXTINF:-1 tvg-id="" tvg-name="LA: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b2da659c16bc64a81f7fde756fc5850b.png" group-title="? Latino ?",LA: FOX SPORTS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416617
+#EXTINF:-1 tvg-id="" tvg-name="LA: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10e3a77e5bf512f0b2235de814a343e2.png" group-title="? Latino ?",LA: FX
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416616
+#EXTINF:-1 tvg-id="" tvg-name="LA: Galavision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7abccfac5e61cd02194cb5171ee1c8a.png" group-title="? Latino ?",LA: Galavision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416615
+#EXTINF:-1 tvg-id="" tvg-name="LA: Glitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24771832e613cad63322d45334cd4699.png" group-title="? Latino ?",LA: Glitz
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416614
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png" group-title="? Latino ?",LA: HBO
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416613
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png" group-title="? Latino ?",LA: HBO 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416612
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png" group-title="? Latino ?",LA: HBO Family
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416611
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Mundi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png" group-title="? Latino ?",LA: HBO Mundi
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416610
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png" group-title="? Latino ?",LA: HBO Signature
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416609
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Xtreme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png" group-title="? Latino ?",LA: HBO Xtreme
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416608
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png" group-title="? Latino ?",LA: HBO+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416607
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="? Latino ?",LA: HGTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416606
+#EXTINF:-1 tvg-id="" tvg-name="LA: Hispan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/bd0d2390d955c4eee87b444264ea2ca0.png" group-title="? Latino ?",LA: Hispan TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416605
+#EXTINF:-1 tvg-id="" tvg-name="LA: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/68f41e0e8b015d7d74e0d0f1e3180427.png" group-title="? Latino ?",LA: History
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416604
+#EXTINF:-1 tvg-id="" tvg-name="LA: History 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f312a5eaab500124303d9376e9144d7.png" group-title="? Latino ?",LA: History 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416603
+#EXTINF:-1 tvg-id="" tvg-name="LA: HTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e189b22966d3c1667dd3d70eab12bb26.png" group-title="? Latino ?",LA: HTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416602
+#EXTINF:-1 tvg-id="" tvg-name="LA: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa736a0d75e817b038e3df45c3c46e81.png" group-title="? Latino ?",LA: Investigation Discovery
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416601
+#EXTINF:-1 tvg-id="" tvg-name="LA: levelUp" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f539dbbbd67e1cb609c5560a78338883.jpeg" group-title="? Latino ?",LA: levelUp
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416600
+#EXTINF:-1 tvg-id="" tvg-name="LA: Lifetime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2bafbfd0d059dc1b372611d3465a8063.png" group-title="? Latino ?",LA: Lifetime
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416599
+#EXTINF:-1 tvg-id="" tvg-name="LA: Mas Chic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f77e98038afdc8aabd10e1d675f4eb07.png" group-title="? Latino ?",LA: Mas Chic
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416598
+#EXTINF:-1 tvg-id="" tvg-name="LA: Mega" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/866128d2267a0dd3a1914adcb8270e99.jpg" group-title="? Latino ?",LA: Mega
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416597
+#EXTINF:-1 tvg-id="" tvg-name="LA: Microvision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3b297e721d9d7f35d0faa1b1d7a4a684.jpg" group-title="? Latino ?",LA: Microvision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416596
+#EXTINF:-1 tvg-id="" tvg-name="LA: Mundo+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fa90f08dee8044c08217ad1f39f614f9.jpg" group-title="? Latino ?",LA: Mundo+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416595
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04e8a37535a0c55f5ca45ab0a15854a7.png" group-title="? Latino ?",LA: NAT GEO
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416594
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO Mundo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png" group-title="? Latino ?",LA: NAT GEO Mundo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416593
+#EXTINF:-1 tvg-id="" tvg-name="LA: NBC Universo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png" group-title="? Latino ?",LA: NBC Universo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416592
+#EXTINF:-1 tvg-id="" tvg-name="LA: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ee33bd11cd243384f5a340f8e12e189d.png" group-title="? Latino ?",LA: Nick Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416591
+#EXTINF:-1 tvg-id="" tvg-name="LA: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4f2ba976aa4e755a5050bb4966037d34.png" group-title="? Latino ?",LA: nickelodeon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416590
+#EXTINF:-1 tvg-id="" tvg-name="LA: Nos Pais" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/46354c00fb129674a01e3091dde28e7e.jpg" group-title="? Latino ?",LA: Nos Pais
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416589
+#EXTINF:-1 tvg-id="" tvg-name="LA: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b52b3dd7436f99747482bce29accec55.png" group-title="? Latino ?",LA: Paramount Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416588
+#EXTINF:-1 tvg-id="" tvg-name="LA: Pasiones" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f920b2c34d8ffbb9cd6a1d6669d858c3.png" group-title="? Latino ?",LA: Pasiones
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416587
+#EXTINF:-1 tvg-id="" tvg-name="LA: Semillitas" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cd77c1f135846d54509f75904ffdf149.png" group-title="? Latino ?",LA: Semillitas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416586
+#EXTINF:-1 tvg-id="" tvg-name="LA: Showtime Beyond" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d1ae9a0df171fe802222577f931bf5b1.png" group-title="? Latino ?",LA: Showtime Beyond
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416585
+#EXTINF:-1 tvg-id="" tvg-name="LA: Space" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d968760dc7fc9a895c6f2b356bf649a9.png" group-title="? Latino ?",LA: Space
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416584
+#EXTINF:-1 tvg-id="" tvg-name="LA: Starz Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0b55e6e7496a2c59547eff291e324778.png" group-title="? Latino ?",LA: Starz Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416583
+#EXTINF:-1 tvg-id="" tvg-name="LA: Studio Universal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb8d1f010d2ba2c6bfb2578fcd38145f.png" group-title="? Latino ?",LA: Studio Universal
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416582
+#EXTINF:-1 tvg-id="" tvg-name="LA: SYFY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dcde2b71dfb7bdc38b26d30bc9b26245.png" group-title="? Latino ?",LA: SYFY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416581
+#EXTINF:-1 tvg-id="" tvg-name="LA: Tastemade" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/740db7e14703c87381e639d31fdb13ca.png" group-title="? Latino ?",LA: Tastemade
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416580
+#EXTINF:-1 tvg-id="" tvg-name="LA: TBS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f74e57eff971eb2eaaa6d01ad24a9dcf.png" group-title="? Latino ?",LA: TBS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416579
+#EXTINF:-1 tvg-id="" tvg-name="LA: TCM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00a262435a780f4b14d76f76d8a2ecac.png" group-title="? Latino ?",LA: TCM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416578
+#EXTINF:-1 tvg-id="" tvg-name="LA: TeenNick" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8f3f8fab7a148070f445082d74be654.png" group-title="? Latino ?",LA: TeenNick
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416577
+#EXTINF:-1 tvg-id="" tvg-name="LA: Tele Red" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7278b1d68612bc4fe9abe628e0ab054f.jpg" group-title="? Latino ?",LA: Tele Red
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416576
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 60 San Antonio KVDA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b6fb1669aed8149db22987c4372f5847.png" group-title="? Latino ?",LA: Telemundo 60 San Antonio KVDA TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416575
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Atlantic City New Jersey WWSI TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e1c87223c9e795955aaa4e9d0a11d4a7.png" group-title="? Latino ?",LA: Telemundo Atlantic City New Jersey WWSI TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416574
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Chicago Illinois WSNS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8b883e2bedc24aa76efbb60d12050412.png" group-title="? Latino ?",LA: Telemundo Chicago Illinois WSNS TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416573
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Corona California KVEA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/987b8a7cae79e89c058ac6e93174280f.png" group-title="? Latino ?",LA: Telemundo Corona California KVEA TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416572
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Dallas Texas KXTX TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d0a20bf41854d6f50b8d431cf97d5f64.jpg" group-title="? Latino ?",LA: Telemundo Dallas Texas KXTX TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416571
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Denver Colorado KDEN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/418088a71e20124df76370fec7ccdb5e.png" group-title="? Latino ?",LA: Telemundo Denver Colorado KDEN TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416570
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Fort Myers Florida WWDT CD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ab8aca39ca1f115454c29b734e8281be.png" group-title="? Latino ?",LA: Telemundo Fort Myers Florida WWDT CD
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416569
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Houston Texas KTMD TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66852fe22454d35c61045d53d22765f5.png" group-title="? Latino ?",LA: Telemundo Houston Texas KTMD TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416568
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Internacional" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9f3521fdd170eae38a97c6925b45fbc4.png" group-title="? Latino ?",LA: Telemundo Internacional
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416567
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Merced California KNSO TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/fd802691a1c1ebc09d795d5d85022786.png" group-title="? Latino ?",LA: Telemundo Merced California KNSO TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416566
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Merrimack New Hampshire WNEU TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e7814252bd46b28fec88af066dc442f8.png" group-title="? Latino ?",LA: Telemundo Merrimack New Hampshire WNEU TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416565
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Miami Florida WSCV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9b000aec8d9a13e7c53b1d09504bc118.png" group-title="? Latino ?",LA: Telemundo Miami Florida WSCV TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416564
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Newark New Jersey WNJU TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/23c4db6563a8063335e102bcdbbb7d5a.png" group-title="? Latino ?",LA: Telemundo Newark New Jersey WNJU TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416563
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Paradise Nevada KBLR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bf8119974a6e1b4e910910af137951ed.png" group-title="? Latino ?",LA: Telemundo Paradise Nevada KBLR TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416562
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Phoenix Arizona KTAZ TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fe16cddd7c4cc762245b737efec180d6.png" group-title="? Latino ?",LA: Telemundo Phoenix Arizona KTAZ TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416561
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo San Jose California KSTS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8f28bc4454581e1de778acdf3d0a38b5.png" group-title="? Latino ?",LA: Telemundo San Jose California KSTS TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416560
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Tucson Arizona KHRR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/443faee72dfb56f73eabedd933fdb9d8.png" group-title="? Latino ?",LA: Telemundo Tucson Arizona KHRR TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416559
+#EXTINF:-1 tvg-id="" tvg-name="LA: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad1da9c0ba3fcacfb946aacf931344e3.png" group-title="? Latino ?",LA: TLC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416558
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1c784499290e4dbff27fcead96e314d.png" group-title="? Latino ?",LA: TNT
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416557
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f271d835769593137772c34a9853f739.png" group-title="? Latino ?",LA: TNT Series
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416556
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png" group-title="? Latino ?",LA: TNT Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416555
+#EXTINF:-1 tvg-id="" tvg-name="LA: Tooncast" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/38b1672943094043c0753f80d1e87b25.png" group-title="? Latino ?",LA: Tooncast
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416554
+#EXTINF:-1 tvg-id="" tvg-name="LA: tru TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png" group-title="? Latino ?",LA: tru TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416553
+#EXTINF:-1 tvg-id="" tvg-name="LA: TV 1000" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/e0cbf62c1b67fd998029bf11fad18666.png" group-title="? Latino ?",LA: TV 1000
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416552
+#EXTINF:-1 tvg-id="" tvg-name="LA: Ultra Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/90cb12b962fc5119394feda301c7ba06.png" group-title="? Latino ?",LA: Ultra Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416551
+#EXTINF:-1 tvg-id="" tvg-name="LA: Unimas" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/82efa03f500c5297dec84b49876c9248.png" group-title="? Latino ?",LA: Unimas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416550
+#EXTINF:-1 tvg-id="" tvg-name="LA: Unimas Houston" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/223c1b025c7698f85da278dd06b7d4ec.png" group-title="? Latino ?",LA: Unimas Houston
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416549
+#EXTINF:-1 tvg-id="" tvg-name="LA: Unimas NY" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ebb62c8dcaa2c8d8fcea404aec3e4729.png" group-title="? Latino ?",LA: Unimas NY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416548
+#EXTINF:-1 tvg-id="" tvg-name="LA: Unimas West" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/32d939752debbf3dfa9d9e89ec211d90.png" group-title="? Latino ?",LA: Unimas West
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416547
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d1958541c62faa755828d8dfd651db10.jpg" group-title="? Latino ?",LA: Universal Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416546
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/6baa63b2a504eb00db7c0752bbce4272.png" group-title="? Latino ?",LA: Universal TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416545
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/88d69186e84dc4ddcdbce801fb124653.png" group-title="? Latino ?",LA: Univision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416544
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Atlanta" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f4bd7ba81da6d14cda2a149683747ae5.png" group-title="? Latino ?",LA: Univision Atlanta
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416543
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Cleveland Ohio WQHS DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/abed5b68de9560a1f7a5f0598beb592a.png" group-title="? Latino ?",LA: Univision Cleveland Ohio WQHS DT
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416542
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Fort Lauderdale" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/340baaf302606390f037e0a5c0f0eef1.png" group-title="? Latino ?",LA: Univision Fort Lauderdale
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416541
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Joliet Indiana WGBO TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/30f94eb634e649d8be8aa3ab72b4d332.png" group-title="? Latino ?",LA: Univision Joliet Indiana WGBO TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416540
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Los Angeles" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a42ff6b703aab485c2d36c2c85b0f387.png" group-title="? Latino ?",LA: Univision Los Angeles
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416539
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Miami" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7b8b4fcaf8f27a578ec75f9a00ef9ce2.png" group-title="? Latino ?",LA: Univision Miami
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416538
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Phoenix" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a468b607f4289c5647c5bd614dbdc468.png" group-title="? Latino ?",LA: Univision Phoenix
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416537
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Raleigh" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7c7ec0f7588f4e45cddd8709b04bec84.png" group-title="? Latino ?",LA: Univision Raleigh
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416536
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Tucson Arizona KUVE TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/5d9bfe289a82066f43360b36e102b7f2.png" group-title="? Latino ?",LA: Univision Tucson Arizona KUVE TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416535
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision TV Novelas" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/382f7ba2d9ec3c1d5423d4b09ec55e70.png" group-title="? Latino ?",LA: Univision TV Novelas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416534
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Vineland New Jersey WUVP TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a612a651d0adf53c9f02d17e1e5082ab.png" group-title="? Latino ?",LA: Univision Vineland New Jersey WUVP TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416533
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision West" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d01ff9cc63ca108cb4994be8d43ef90b.png" group-title="? Latino ?",LA: Univision West
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416532
+#EXTINF:-1 tvg-id="" tvg-name="LA: Vallevision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6ca6d4147dd0a2c89118363a0faaee90.jpg" group-title="? Latino ?",LA: Vallevision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416531
+#EXTINF:-1 tvg-id="" tvg-name="LA: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0ae6c8e6f33c73c453f6fbcbd6addfe4.png" group-title="? Latino ?",LA: Warner TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416530
+
