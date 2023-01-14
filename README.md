@@ -1258,7 +1258,7 @@ http://bestfhdtv.com:80/play/live.php?mac=00:1A:79:E5:57:04&stream=553052&extens
 http://bestfhdtv.com:80/play/live.php?mac=00:1A:79:E5:57:04&stream=552941&extension=ts
 #EXTINF:-1 tvg-id="mx.WOBI TV" tvg-name="MXC| WOBI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| MEXICO",MXC| WOBI HD
 http://bestfhdtv.com:80/play/live.php?mac=00:1A:79:E5:57:04&stream=553053&extension=ts
-#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg",  ss123.pro+
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ss123.pro+
 http://bestfhdtv.com:80/play/live.php?mac=00:1A:79:E5:57:04&stream=553053&extension=ts
 #EXTINF:-1,ARG| A24
 http://ss123.pro/play/live.php?mac=00:1A:79:E5:57:04&stream=926588&extension=ts
